@@ -1,0 +1,9 @@
+let name = prompt("whats your name";
+
+switch(name){
+    case "john";
+    document.write("hello!")
+    break
+}
+
+)
